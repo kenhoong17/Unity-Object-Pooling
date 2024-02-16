@@ -2,7 +2,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 
-namespace Rcade
+namespace XTT
 {
     public interface IPoolable<T> where T : MonoBehaviour
     {
